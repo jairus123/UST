@@ -14,7 +14,7 @@ export default function Login() {
       show={1}
     >
       <Box
-        className='w-[38rem]'
+        className='w-[38rem] rounded-md'
         bordered
       >
         <div className='flex flex-col gap-6 items-center justify-center text-center font-medium'>

@@ -16,7 +16,7 @@ export default function Home() {
       <div className='flex items-center justify-center'>
         
         <Box
-          className='w-[26rem]'
+          className='w-[26rem] rounded-md'
           bordered
         >
           <div className='flex flex-col items-center'>
